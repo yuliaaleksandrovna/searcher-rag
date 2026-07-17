@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 .env
 data/searcher.db
+data/articles.json
 .DS_Store
